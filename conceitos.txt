@@ -1,0 +1,4 @@
+SELECT: Seleciona os dados da tabela e os imprime;
+INSERT: Insere os dados nos componentes da tabela;
+UPDATE: Atualiza algum dado de um componente da tabela;
+DELETE: Deleta algum dado ou componente da tabela.
